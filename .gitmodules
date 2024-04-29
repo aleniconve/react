@@ -1,0 +1,3 @@
+[submodule "07-tic-tac-toe-starting-project"]
+	path = 07-tic-tac-toe-starting-project
+	url = ../07-tic-tac-toe-starting-project
